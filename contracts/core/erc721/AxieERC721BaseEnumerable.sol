@@ -1,7 +1,7 @@
 pragma solidity ^0.4.19;
 
 
-import "zeppelin/contracts/math/SafeMath.sol";
+import "../zeppelin/contracts/math/SafeMath.sol";
 
 import "../../erc/erc165/ERC165.sol";
 import "../../erc/erc721/IERC721Base.sol";

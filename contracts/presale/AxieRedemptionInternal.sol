@@ -1,9 +1,9 @@
 pragma solidity ^0.4.19;
 
 
-import "zeppelin/contracts/lifecycle/Pausable.sol";
-import "zeppelin/contracts/math/SafeMath.sol";
-import "zeppelin/contracts/ownership/HasNoContracts.sol";
+import "../zeppelin/contracts/lifecycle/Pausable.sol";
+import "../zeppelin/contracts/math/SafeMath.sol";
+import "../zeppelin/contracts/ownership/HasNoContracts.sol";
 
 import "../core/AxieCore.sol";
 import "./AxiePresaleExtended.sol";

@@ -1,7 +1,7 @@
 pragma solidity ^0.4.19;
 
 
-import "zeppelin/contracts/ownership/Ownable.sol";
+import "../zeppelin/contracts/ownership/Ownable.sol";
 
 import "./AxieManager.sol";
 

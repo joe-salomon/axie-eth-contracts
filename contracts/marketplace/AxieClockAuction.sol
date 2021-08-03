@@ -1,8 +1,8 @@
 pragma solidity ^0.4.19;
 
 
-import "zeppelin/contracts/lifecycle/Pausable.sol";
-import "zeppelin/contracts/ownership/HasNoEther.sol";
+import "../zeppelin/contracts/lifecycle/Pausable.sol";
+import "../zeppelin/contracts/ownership/HasNoEther.sol";
 
 import "../erc/erc721/IERC721Base.sol";
 
